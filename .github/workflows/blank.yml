@@ -34,5 +34,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-      - name: Cetak tanggal
+      - name: judul
         run: date
+
+  
